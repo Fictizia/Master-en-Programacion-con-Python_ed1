@@ -9,8 +9,8 @@
 
 ### Clase 1
 - [Introducción al curso](./teoria/b01t01.md)
-- [PyCharm: edición y depuración](./teoria/b01t02.md)
-- [La terminal](./teoria/b01t03.md)
+- [La terminal](./teoria/b01t02.md)
+- [PyCharm: edición y depuración](./teoria/b01t03.md)
 - [Introducción a Git y GitHub](./teoria/b01t04.md)
 
 ## Bloque 2: pinceladas de desarrollo de software
