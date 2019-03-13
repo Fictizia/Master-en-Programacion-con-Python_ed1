@@ -1,7 +1,7 @@
 ---
 name: Bug
 about: Para errores en el código y cosas que no funcionan
-title: Tal cosa devuelve un resultado erroneo
+title:
 labels: bug
 assignees: ''
 

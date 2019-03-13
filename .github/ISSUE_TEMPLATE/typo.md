@@ -1,7 +1,7 @@
 ---
 name: Typo
 about: Para señalar un error corto, falta de ortografía o error gramatical en el texto
-title: A tal palabra la fealta una letra
+title:
 labels: typo
 assignees: ''
 

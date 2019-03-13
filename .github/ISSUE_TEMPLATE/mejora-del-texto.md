@@ -1,7 +1,7 @@
 ---
 name: Mejora del texto
 about: Para mejorar relacionadas con la forma de expresar algo en la teoría.
-title: El texto sobre tal cosa podría ser más sencillo
+title:
 labels: mejora del texto
 assignees: ''
 
