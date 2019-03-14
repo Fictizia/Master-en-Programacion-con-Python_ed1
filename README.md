@@ -38,10 +38,9 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 | [2019/03/16](#clase-2) | SOLID, testing, APIs, olores en el código          |
 
 ### Clase 2
-- [SOLID](./teoria/b02t01.md)
-- [Testing](./teoria/b02t02.md)
-- [Interfaces, contratos y APIs](./teoria/b02t03.md)
-- [Olores del código](./teoria/b02t04.md)
+- [Interfaces, contratos y APIs](./teoria/b02t01.md)
+- [SOLID](./teoria/b02t02.md)
+- [Olores del código](./teoria/b02t03.md)
 
 ## Bloque 3: características de Python
 
