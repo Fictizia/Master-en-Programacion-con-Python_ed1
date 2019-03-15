@@ -40,7 +40,7 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 ### Clase 2
 - [Interfaces, contratos y APIs](./teoria/b02t01.md)
 - [SOLID](./teoria/b02t02.md)
-- [Olores del código](./teoria/b02t03.md)
+- [Olores del código y refactorización](./teoria/b02t03.md)
 
 ## Bloque 3: características de Python
 
