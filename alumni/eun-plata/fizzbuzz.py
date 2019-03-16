@@ -1,11 +1,5 @@
 def _is_divisible(number: int, divisor: int) -> bool:
-    """
-    Comprueba si el número es divisible
-    :param number:
-    :param divisor:
-    :return:
-    """
-    return number & divisor == 0
+    return number % divisor == 0
 
 
 def fizzbuzz(up_to: int):
