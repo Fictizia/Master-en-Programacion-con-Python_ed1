@@ -34,27 +34,20 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 - [PyCharm: edición y depuración](./teoria/b01t03.md)
 - [Introducción a Git y GitHub](./teoria/b01t04.md)
 
-<!--## Bloque 2: pinceladas de desarrollo de software
-
-| Fecha                  | Contenido                                          |
-|------------------------|----------------------------------------------------|
-| [2019/03/16](#clase-3) | SOLID, testing, APIs, olores en el código          |
-
-### Clase 3
-- [Interfaces, contratos y APIs](./teoria/b02t01.md)
-- [SOLID](./teoria/b02t02.md)
-- [Olores del código y refactorización](./teoria/b02t03.md)
-
 ## Bloque 3: características de Python
 
 | Fecha                  | Contenido                                          |
 |------------------------|----------------------------------------------------|
-| [2019/03/22](#clase-3) | Tipos de datos básicos                             |
-| [2019/03/23](#clase-4) | Otros tipos de datos y cadenas de texto            |
+| [2019/03/16](#clase-3) | Tipos básicos de Python                            |
+| [2019/03/17](#clase-4) | Unicode, cadenas de texto y bytes                  |
 
 ### Clase 3
 - [Tipos de datos básicos](./teoria/b03t01.md)
 
 ### Clase 4
-- [Otros tipos ampliamente utilizados](./teoria/b0402.md)
-- [Cadenas de texto y bytes](./teoría/b0403.md)-->
+- [Cadenas de texto y bytes](./teoría/b03t02.md)
+
+### Trabajo para casa:
+1. Leer tema 
+2. Realizar tarea #
+3. Realizar
