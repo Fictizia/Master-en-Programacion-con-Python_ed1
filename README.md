@@ -45,7 +45,7 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 - [Tipos de datos básicos](./teoria/b03t01.md)
 
 ### Clase 4
-- [Cadenas de texto y bytes](./teoría/b03t02.md)
+- [Cadenas de texto y bytes](./teoria/b03t02.md)
 
 ### Trabajo para casa:
 1. Leer tema 
