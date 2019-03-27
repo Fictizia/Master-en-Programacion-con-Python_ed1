@@ -38,8 +38,8 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 
 | Fecha                  | Contenido                                          |
 |------------------------|----------------------------------------------------|
-| [2019/03/16](#clase-3) | Tipos básicos de Python                            |
-| [2019/03/17](#clase-4) | Unicode, cadenas de texto y bytes                  |
+| [2019/03/21](#clase-3) | Tipos básicos de Python                            |
+| [2019/03/22](#clase-4) | Unicode, cadenas de texto y bytes                  |
 
 ### Clase 3
 - [Tipos de datos básicos](./teoria/b03t01.md)
