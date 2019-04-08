@@ -40,6 +40,8 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 |------------------------|----------------------------------------------------|
 | [2019/03/21](#clase-3) | Tipos básicos de Python                            |
 | [2019/03/22](#clase-4) | Unicode, cadenas de texto y bytes                  |
+| [2019/04/05](#clase-5) | Otros tipos de datos; git rebase                   |
+| [2019/04/06](#clase-6) | Funciones, _closures_ y decoradores                |
 
 ### Clase 3
 - [Tipos de datos básicos](./teoria/b03t01.md)
@@ -47,7 +49,8 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 ### Clase 4
 - [Cadenas de texto y bytes](./teoria/b03t02.md)
 
-### Trabajo para casa:
-1. Leer tema 
-2. Realizar tarea #
-3. Realizar
+### Clase 5
+- [Otros tipos de datos; git rebase](./teoria/b03t03.md)
+
+### Clase 6
+- [Funciones, _closures_ y decoradores](./teoria/b03t04.md)
