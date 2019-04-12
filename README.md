@@ -2,7 +2,7 @@
 ![shieldsIO](https://img.shields.io/github/issues/Fictizia/Master-en-Programacion-con-Python_ed1.svg)
 ![shieldsIO](https://img.shields.io/github/issues/Fictizia/Master-en-Programacion-con-Python_ed1.svg)
 
-![WideImg](http://fictizia.com/img/github/Fictizia-plan-estudios-github.jpg)
+![WideImg](https://fictizia.com/img/github/Fictizia-plan-estudios-github.jpg)
 
 # [Máster en Programación con Python](https://fictizia.com/formacion/master-programacion-python)
 ### Programación, Asincronía, POO, Programación Funcional, Desarrollo de Software, MV*, Python for Science
