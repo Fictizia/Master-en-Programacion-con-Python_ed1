@@ -42,7 +42,7 @@ def log(label):
 def solve(a, b, c):
     """Solves a quadratic equation given the coefficients."""
     root = (b ** 2 - 4 * a * c) ** 1 / 2
-    return (b + root) / 2 * a, (b - root) / 2 * a
+    return (-b + root) / 2 * a, (-b - root) / 2 * a
 
 
 solve(4, 2, 1)
