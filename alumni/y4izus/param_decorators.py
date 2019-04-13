@@ -29,6 +29,7 @@ def log(label):
     def _decorator(target):
         @log_parameters(label)
         @log_return(label)
+        @wraps(target)
         def _decorated(*args, **kwargs):
             return target(*args, **kwargs)
 
