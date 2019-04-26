@@ -3,6 +3,7 @@ from functools import wraps
 
 def log_parameters(label):
     def _decorator(target):
+        @wraps(target)
         def _decorated(*args, **kwargs):
             print(f"[{label}] Called with {args} and {kwargs}")
             return target(*args, **kwargs)
