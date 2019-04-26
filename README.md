@@ -2,7 +2,7 @@
 ![shieldsIO](https://img.shields.io/github/issues/Fictizia/Master-en-Programacion-con-Python_ed1.svg)
 ![shieldsIO](https://img.shields.io/github/issues/Fictizia/Master-en-Programacion-con-Python_ed1.svg)
 
-![WideImg](http://fictizia.com/img/github/Fictizia-plan-estudios-github.jpg)
+![WideImg](https://fictizia.com/img/github/Fictizia-plan-estudios-github.jpg)
 
 # [Máster en Programación con Python](https://fictizia.com/formacion/master-programacion-python)
 ### Programación, Asincronía, POO, Programación Funcional, Desarrollo de Software, MV*, Python for Science
@@ -42,6 +42,8 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 | [2019/03/22](#clase-4) | Unicode, cadenas de texto y bytes                  |
 | [2019/04/05](#clase-5) | Otros tipos de datos; git rebase                   |
 | [2019/04/06](#clase-6) | Funciones, _closures_ y decoradores                |
+| [2019/04/12](#clase-7) | Clase práctica de decoradores                      |
+| [2019/04/13](#clase-8) | Organización de código en paquetes y módulos       |
 
 ### Clase 3
 - [Tipos de datos básicos](./teoria/b03t01.md)
@@ -54,3 +56,9 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 
 ### Clase 6
 - [Funciones, _closures_ y decoradores](./teoria/b03t04.md)
+
+### Clase 7
+- [Clase práctica de decoradores](./teoria/b03t04.md)
+
+### Clase 8
+- [Organización de código en paquetes y módulos](./teoria/b03t06.md)
