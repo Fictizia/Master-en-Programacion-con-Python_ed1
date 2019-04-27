@@ -44,6 +44,7 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 | [2019/04/06](#clase-6) | Funciones, _closures_ y decoradores                |
 | [2019/04/12](#clase-7) | Clase práctica de decoradores                      |
 | [2019/04/13](#clase-8) | Organización de código en paquetes y módulos       |
+| [2019/04/26](#clase-9) | Repaso de entornos virtuales y excepciones         |
 
 ### Clase 3
 - [Tipos de datos básicos](./teoria/b03t01.md)
@@ -62,3 +63,7 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 
 ### Clase 8
 - [Organización de código en paquetes y módulos](./teoria/b03t06.md)
+
+### Clase 9
+- [Instalación de Python y entornos virtuales](./teoria/b03t07.md)
+- [Excepciones y gestión de errores](./teoria/b03t08.md)
