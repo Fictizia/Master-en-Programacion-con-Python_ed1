@@ -85,10 +85,13 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 | Fecha                   | Contenido                                          |
 |-------------------------|----------------------------------------------------|
 | [2019/05/10](#clase-11) | Clases, atributos y métodos                        |
-| [2019/05/11](#clase-12) |               |
+| [2019/05/11](#clase-12) | Métodos estáticos y de clase, propiedades, herencia|
 
 ### Clase 11
 
 - [Clases, atributos y métodos](./teoria/b04t01.md)
 
 ### Clase 12
+
+- [Clases, atributos y métodos](./teoria/b04t01.md)
+- [Herencia y linearización de jerarquías (MRO)](./teoria/b04t02.md)
