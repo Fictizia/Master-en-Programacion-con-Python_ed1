@@ -14,7 +14,7 @@ def fizzbuzz(up_to: int):
             representation_tokens.append('buzz')
 
         if not representation_tokens:
-            representation_tokens.append(number)
+            representation_tokens.append(str(number))
 
         output.append(' '.join(representation_tokens))
 
