@@ -36,15 +36,15 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 
 ## Bloque 3: características de Python
 
-| Fecha                  | Contenido                                          |
-|------------------------|----------------------------------------------------|
-| [2019/03/21](#clase-3) | Tipos básicos de Python                            |
-| [2019/03/22](#clase-4) | Unicode, cadenas de texto y bytes                  |
-| [2019/04/05](#clase-5) | Otros tipos de datos; git rebase                   |
-| [2019/04/06](#clase-6) | Funciones, _closures_ y decoradores                |
-| [2019/04/12](#clase-7) | Clase práctica de decoradores                      |
-| [2019/04/13](#clase-8) | Organización de código en paquetes y módulos       |
-| [2019/04/26](#clase-9) | Repaso de entornos virtuales y excepciones         |
+| Fecha                   | Contenido                                          |
+|-------------------------|----------------------------------------------------|
+| [2019/03/21](#clase-3)  | Tipos básicos de Python                            |
+| [2019/03/22](#clase-4)  | Unicode, cadenas de texto y bytes                  |
+| [2019/04/05](#clase-5)  | Otros tipos de datos; git rebase                   |
+| [2019/04/06](#clase-6)  | Funciones, _closures_ y decoradores                |
+| [2019/04/12](#clase-7)  | Clase práctica de decoradores                      |
+| [2019/04/13](#clase-8)  | Organización de código en paquetes y módulos       |
+| [2019/04/26](#clase-9)  | Repaso de entornos virtuales y excepciones         |
 
 ### Clase 3
 - [Tipos de datos básicos](./teoria/b03t01.md)
@@ -67,3 +67,28 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 ### Clase 9
 - [Instalación de Python y entornos virtuales](./teoria/b03t07.md)
 - [Excepciones y gestión de errores](./teoria/b03t08.md)
+
+## Bloque 2: pinceladas acerca del desarrollo de software
+
+| Fecha                   | Contenido                                          |
+|-------------------------|----------------------------------------------------|
+| [2019/04/27](#clase-10) | Principios del desarrollo de software              |
+
+### Clase 10
+
+- [Interfaces, contratos y APIs](./teoria/b02t01.md)
+- [SOLID](./teoria/b02t02.md)
+- [Olores del código y refactorización](./teoria/b02t03.md)
+
+## Bloque 4: Tipos personalizados
+
+| Fecha                   | Contenido                                          |
+|-------------------------|----------------------------------------------------|
+| [2019/05/10](#clase-11) | Clases, atributos y métodos                        |
+| [2019/05/11](#clase-12) |               |
+
+### Clase 11
+
+- [Clases, atributos y métodos](./teoria/b04t01.md)
+
+### Clase 12
