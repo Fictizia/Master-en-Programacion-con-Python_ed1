@@ -87,7 +87,7 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 | [2019/05/10](#clase-11) | Clases, atributos y métodos                        |
 | [2019/05/11](#clase-12) | Métodos estáticos y de clase, propiedades, herencia|
 | [2019/05/17](#clase-13) | Métodos mágicos y clases abstractas                |
-| [2019/05/18](#clase-14) | Personalización de tipos y protocolos              |
+| [2019/05/18](#clase-14) | Simulazción de tipos, y protocolos                 |
 
 ### Clase 11
 
@@ -104,4 +104,4 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 
 ### Clase 14
 
-- [Personalización de tipos y protocolos](./teoria/b04t04.md)
+- [Simulazción de tipos, y protocolos](./teoria/b04t04.md)
