@@ -1,6 +1,4 @@
 ![shieldsIO](https://img.shields.io/github/issues/Fictizia/Master-en-Programacion-con-Python_ed1.svg)
-![shieldsIO](https://img.shields.io/github/issues/Fictizia/Master-en-Programacion-con-Python_ed1.svg)
-![shieldsIO](https://img.shields.io/github/issues/Fictizia/Master-en-Programacion-con-Python_ed1.svg)
 
 ![WideImg](https://fictizia.com/img/github/Fictizia-plan-estudios-github.jpg)
 
