@@ -87,7 +87,11 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 | [2019/05/10](#clase-11) | Clases, atributos y métodos                        |
 | [2019/05/11](#clase-12) | Métodos estáticos y de clase, propiedades, herencia|
 | [2019/05/17](#clase-13) | Métodos mágicos y clases abstractas                |
-| [2019/05/18](#clase-14) | Simulazción de tipos, y protocolos                 |
+| [2019/05/18](#clase-14) | Simulación de tipos, y protocolos                 |
+| [2019/05/24](#clase-15) | Taller de programación cuántica                 |
+| [2019/05/29](#clase-16) | Recuperación: sesión práctica                 |
+| [2019/05/31](#clase-17) | Simulación de tipos, y protocolos                 |
+| [2019/06/01](#clase-18) | Sesión práctica                 |
 
 ### Clase 11
 
@@ -104,4 +108,22 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 
 ### Clase 14
 
-- [Simulazción de tipos, y protocolos](./teoria/b04t04.md)
+- [Simulación de tipos, y protocolos](./teoria/b04t04.md)
+
+### Clase 15
+
+- [Taller de programación cuántica](http://delapuente.github.io/presentations/quantum-era/#/)
+
+### Clase 16
+
+- Recuperación (3 h): sesión práctica
+
+### Clase 17
+
+- [Simulación de tipos, y protocolos](./teoria/b04t04.md)
+
+### Clase 18
+
+- Sesión práctica
+
+## Bloque 5: Ingeniería del software
