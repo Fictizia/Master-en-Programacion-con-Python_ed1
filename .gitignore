@@ -3,3 +3,5 @@
 .venv
 venv
 __pycache__
+.mypy_cache
+.dmypy.json

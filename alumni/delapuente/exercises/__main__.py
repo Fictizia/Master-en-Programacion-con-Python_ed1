@@ -1,5 +1,5 @@
 import pkgutil
-import exercises
+from alumni.delapuente import exercises
 print(f'List of my exercises:')
 for _, name, is_package in pkgutil.iter_modules(exercises.__path__):
     if name != '__main__':
