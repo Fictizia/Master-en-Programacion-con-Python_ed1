@@ -85,11 +85,11 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 | [2019/05/10](#clase-11) | Clases, atributos y métodos                        |
 | [2019/05/11](#clase-12) | Métodos estáticos y de clase, propiedades, herencia|
 | [2019/05/17](#clase-13) | Métodos mágicos y clases abstractas                |
-| [2019/05/18](#clase-14) | Simulación de tipos, y protocolos                 |
-| [2019/05/24](#clase-15) | Taller de programación cuántica                 |
-| [2019/05/29](#clase-16) | Recuperación: sesión práctica                 |
-| [2019/05/31](#clase-17) | Simulación de tipos, y protocolos                 |
-| [2019/06/01](#clase-18) | Sesión práctica                 |
+| [2019/05/18](#clase-14) | Simulación de tipos, y protocolos                  |
+| [2019/05/24](#clase-15) | Taller de programación cuántica                    |
+| [2019/05/29](#clase-16) | Recuperación: sesión práctica                      |
+| [2019/05/31](#clase-17) | Simulación de tipos, y protocolos                  |
+| [2019/06/01](#clase-18) | Sesión práctica                                    |
 
 ### Clase 11
 
@@ -125,3 +125,16 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 - Sesión práctica
 
 ## Bloque 5: Ingeniería del software
+
+| Fecha                   | Contenido                                          |
+|-------------------------|----------------------------------------------------|
+| [2019/06/07](#clase-19) | Tipado progresivo                                  |
+| [2019/06/08](#clase-20) | Sesión práctica                                    |
+
+### Clase 19
+
+- [Tipado progresivo](./teoria/b05t03.md)
+
+### Clase 20
+
+- Sesión práctica
