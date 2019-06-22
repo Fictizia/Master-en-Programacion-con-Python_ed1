@@ -130,6 +130,9 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 |-------------------------|----------------------------------------------------|
 | [2019/06/07](#clase-19) | Tipado progresivo                                  |
 | [2019/06/08](#clase-20) | Sesión práctica                                    |
+| [2019/06/14](#clase-21) | Logging                                            |
+| [2019/06/15](#clase-22) | Sesión práctica                                    |
+| [2019/06/21](#clase-23) | Testing                                            |
 
 ### Clase 19
 
@@ -138,3 +141,15 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 ### Clase 20
 
 - Sesión práctica
+
+### Clase 21
+
+- [Registro de sucesos o _logging_](./teoria/b05t04.md)
+
+### Clase 22
+
+- Sesión práctica
+
+### Clase 23
+
+- Testing
