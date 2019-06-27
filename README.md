@@ -133,6 +133,8 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 | [2019/06/14](#clase-21) | Logging                                            |
 | [2019/06/15](#clase-22) | Sesión práctica                                    |
 | [2019/06/21](#clase-23) | Testing                                            |
+| [2019/06/22](#clase-24) | Patrones de diseño                                 |
+| [2019/06/26](#clase-25) | Recuperación: sesión práctica                      |
 
 ### Clase 19
 
@@ -153,3 +155,11 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 ### Clase 23
 
 - Testing
+
+### Clase 24
+
+- Patrones de diseño
+
+### Clase 25
+
+- Recuperación: sesión práctica
