@@ -178,5 +178,3 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 ### Clase 27
 
 - [Python de alto rendimiento](./teoria/b07t02.md)
-
-### Clase 27
