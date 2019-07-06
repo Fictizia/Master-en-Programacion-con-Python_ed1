@@ -163,3 +163,20 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 ### Clase 25
 
 - Recuperación: sesión práctica
+
+## Bloque 7: Otros aspectors de Python
+
+| Fecha                   | Contenido                                          |
+|-------------------------|----------------------------------------------------|
+| [2019/07/05](#clase-26) | Python para la ciencia                             |
+| [2019/07/06](#clase-27) | Python de alto rendimiento                         |
+
+### Clase 26
+
+- [Python para la ciencia](./teoria/b07t01.md)
+
+### Clase 27
+
+- [Python de alto rendimiento](./teoria/b07t02.md)
+
+### Clase 27
