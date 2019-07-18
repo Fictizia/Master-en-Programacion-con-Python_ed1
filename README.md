@@ -178,3 +178,33 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 ### Clase 27
 
 - [Python de alto rendimiento](./teoria/b07t02.md)
+
+## Bloque 5: Ingeniería del software
+
+| Fecha                   | Contenido                                          |
+|-------------------------|----------------------------------------------------|
+| [2019/07/09](#clase-28) | Recuperación: sesión práctica                      |
+| [2019/07/12](#clase-29) | Documentación                                      |
+
+### Clase 28
+
+- Recuperación: sesión práctica
+
+### Clase 29
+
+- [Documentación](./teoria/b05t06.md)
+
+## Bloque 3: Características de Python
+
+| Fecha                   | Contenido                                          |
+|-------------------------|----------------------------------------------------|
+| [2019/07/13](#clase-30) | Otros tipos: expresiones regulares                 |
+| [2019/07/16](#clase-31) | Recuperación: sesión práctica                      |
+
+### Clase 30
+
+- [Otros tipos: expresiones regulares](./teoria/b03t03.md#expresiones-regulares)
+
+### Clase 31
+
+- Recuperación: sesión práctica
