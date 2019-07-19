@@ -164,7 +164,7 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 
 - Recuperación: sesión práctica
 
-## Bloque 7: Otros aspectors de Python
+## Bloque 6: Otros aspectors de Python
 
 | Fecha                   | Contenido                                          |
 |-------------------------|----------------------------------------------------|
@@ -173,11 +173,11 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 
 ### Clase 26
 
-- [Python para la ciencia](./teoria/b07t01.md)
+- [Python para la ciencia](./teoria/b06t01.md)
 
 ### Clase 27
 
-- [Python de alto rendimiento](./teoria/b07t02.md)
+- [Python de alto rendimiento](./teoria/b06t02.md)
 
 ## Bloque 5: Ingeniería del software
 
