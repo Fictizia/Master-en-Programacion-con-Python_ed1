@@ -208,3 +208,39 @@ En definitiva, el Máster más completo sobre programación con Python, uno de l
 ### Clase 31
 
 - Recuperación: sesión práctica
+
+## Bloque 7: Programación asíncrona
+
+| Fecha                   | Contenido                                          |
+|-------------------------|----------------------------------------------------|
+| [2019/07/19](#clase-32) | Modelos de asincronía y asincronía en Python       |
+| [2019/07/20](#clase-33) | Recuperación: sesión práctica                      |
+| [2019/07/23](#clase-34) | Caso de uso: publicador/consumidor                 |
+
+### Clase 32
+
+- [Modelos de asincronía](./teoria/b07t01.md)
+- [Asincronía en Python](./teoria/b07t02.md)
+
+### Clase 33
+
+- [Caso de uso: publicador/consumidor](./teoria/b07t03.md)
+
+### Clase 34
+
+- Recuperación: sesión práctica
+
+## Bloque 3: Características de Python
+
+| Fecha                   | Contenido                                          |
+|-------------------------|----------------------------------------------------|
+| [2019/07/13](#clase-35) | Publicación de software                            |
+| [2019/07/16](#clase-36) | Publicación de los proyectos personales            |
+
+### Clase 30
+
+- [Publicación de software](./teoria/b03t11.md)
+
+### Clase 31
+
+- Publicación de los proyectos personales
